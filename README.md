@@ -65,32 +65,32 @@ We repeat Test Cycles until we get the quality product.
 ### Entry and Exit Criteria
 The below are the entry and exit criteria for every phase of Software Testing Life Cycle:
 
-#### Requirement Analysis
+#### 1. Requirement Analysis
 ##### Entry Criteria:
 1. Once the testing team receives the Requirements Documents or details about the Project.
 ##### Exit Criteria:
 1. List of Requirements are explored and understood by the Testing team.
 2. Doubts are cleared.
 
-#### Test Planning
+#### 2. Test Planning
 ##### Entry Criteria:
 1. Testable Requirements derived from the given Requirements Documents or Project details.
 2. Doubts are cleared
 ##### Exit Criteria:
 1. Test Plan document (includes Test Strategy) is signed-off by the Client.
 
-#### Test Development
+#### 3. Test Development
 ##### Entry Criteria:
 1. Test Plan Document is signed-off by the Client.
 ##### Exit Criteria:
 1. Test Scenarios and Test Cases Documents are signed-off by the Client.
-#### Test Execution
+#### 4. Test Execution
 ##### Entry Criteria:
 1. Test Scenarios and Test Cases Documents are signed-off by the Client.
 2. Application is ready for Testing.
 ##### Exit Criteria:
 1. Test Case Reports, Defect Reports are ready.
-#### Test Closure
+#### 5. Test Closure
 ##### Entry Criteria:
 1. Test Case Reports, Defect Reports are ready.
 ##### Exit Criteria:
