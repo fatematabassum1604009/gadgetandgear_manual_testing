@@ -1,5 +1,6 @@
 # gadgetandgear_manual_testing
 This project contains sample set of test cases for the e-commerce website [Gadget & Gear](https://gadgetandgear.com/). Gadget and Gear is an Apple Authorized Reseller in Bangladesh and the only multi branded retail chain outlets of Mobile &amp; Branded Premium Accessories in BD.
+***
 ### Contents
 1.	Scope 
     * Inclusions
@@ -9,6 +10,7 @@ This project contains sample set of test cases for the e-commerce website [Gadge
 3.	Entry and Exit Criteria
 4.	Suspension Criteria
 5.	Tools
+***
 
 2)	Scope:
 The scope of the project includes testing the following features of  https://gadgetandgear.com/ web application.
