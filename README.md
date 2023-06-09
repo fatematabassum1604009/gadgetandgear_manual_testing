@@ -1,21 +1,21 @@
 # gadgetandgear_manual_testing
-This project contains sample set of test cases for the e-commerce website [Gadget & Gear](https://gadgetandgear.com/). Gadget and Gear is an Apple Authorized Reseller in Bangladesh and the only multi branded retail chain outlets of Mobile &amp; Branded Premium Accessories in BD.
+This project contains sample set of test cases,test plan, bug report, requirement traceability matrix (RTM) for the e-commerce website [Gadget & Gear](https://gadgetandgear.com/). Gadget and Gear is an Apple Authorized Reseller in Bangladesh and the only multi branded retail chain outlets of Mobile &amp; Branded Premium Accessories in BD.
 ***
 ### Contents
-1.	Scope 
-    * Inclusions
-    * Test Environments
-    * Exclusions
-2.	Test Strategy
-3.	Entry and Exit Criteria
-4.	Suspension Criteria
-5.	Tools
+1.	Scope.
+    * Inclusions.
+    * Test Environments.
+    * Exclusions.
+2.	Test Strategy.
+3.	Entry and Exit Criteria.
+4.	Suspension Criteria.
+5.	Tools.
 ***
 
-2)	Scope:
+### Scope
 The scope of the project includes testing the following features of  https://gadgetandgear.com/ web application.
-
- 	2.1) Inclusions:
+---
+#### Inclusions:
 1)	Register functionality.
 2)	Login functionality. 
 3)	Logout functionality.
@@ -37,18 +37,18 @@ The scope of the project includes testing the following features of  https://gad
 19)	Privacy Policy functionality.
 20)	Header options, footer options.
 21)	SHOP BY BRANDS functionality.
-
- 	2.2) Test Environments:
+---
+#### Test Environments
 1)	Windows 10 – Chrome, Firefox and Edge 
 2)	Android Mobile OS – Chrome
-
- 2.3) Exclusions 
+---
+#### Exclusions 
 1)	 Any third-party features or Payment gateways.
-
-3.	Test Strategy:
+***
+### Test Strategy
 As part of Functional Testing, we will follow the below approach for Testing:
 
-Step #1 – Creation of Test Scenarios and Test Cases for the different features in scope.
+<b>Step #1</b> – Creation of Test Scenarios and Test Cases for the different features in scope.
 
 Step #2 – Our Testing process, when we get an Application for Testing:
 • Firstly, we will perform Smoke Testing to check whether the different and important functionalities of the application are working.
