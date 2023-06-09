@@ -3,9 +3,9 @@ This project contains sample set of test cases for the e-commerce website [Gadge
 ### Contents
 1)	Overview.
 2)	Scope.
-* Inclusions.
-* Test Environments.
-* Exclusions.
+  * Inclusions.
+  * Test Environments.
+  * Exclusions.
 3)	Test Strategy.
 4)	Entry and Exit Criteria.
 5)	Suspension Criteria.
