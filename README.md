@@ -36,11 +36,9 @@ The scope of the project includes testing the following features of  https://gad
 19)	Privacy Policy functionality.
 20)	Header options, footer options.
 21)	SHOP BY BRANDS functionality.
----
 #### Test Environments
-1)	Windows 10 – Chrome, Firefox and Edge 
-2)	Android Mobile OS – Chrome
----
+1)	Windows 10 – Chrome, Firefox and Edge.
+2)	Android Mobile OS – Chrome.
 #### Exclusions 
 1)	 Any third-party features or Payment gateways.
 ***
