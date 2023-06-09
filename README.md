@@ -14,7 +14,6 @@ This project contains sample set of test cases,test plan, bug report, requiremen
 
 ### Scope
 The scope of the project includes testing the following features of  https://gadgetandgear.com/ web application.
----
 #### Inclusions:
 1)	Register functionality.
 2)	Login functionality. 
