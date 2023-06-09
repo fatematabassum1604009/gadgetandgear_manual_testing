@@ -47,62 +47,60 @@ As part of Functional Testing, we will follow the below approach for Testing:
 
 <b>Step #1</b> – Creation of Test Scenarios and Test Cases for the different features in scope.
 
-Step #2 – Our Testing process, when we get an Application for Testing:
-• Firstly, we will perform Smoke Testing to check whether the different and important functionalities of the application are working.
-• We reject the build, if the Smoke Testing fails and will wait for the stable build before performing in depth testing of the application functionalities.
-• Once we receive a stable build, which passes Smoke Testing, we perform in depth testing using the Test Cases created.
-• Multiple Test Resources will be testing the same Application on Multiple Supported Environments simultaneously.
-• We then report the bugs in bug tracking tool and send dev. Management the defect found.
-• As part of the Testing, we will perform the below types of Testing:
-•	Smoke Testing and Sanity Testing
-•	Regression Testing and Retesting 
-•	Usability Testing, Functionality & UI Testing 
+<b>Step #2</b> – Our Testing process, when we get an Application for Testing:
+1. Firstly, we will perform Smoke Testing to check whether the different and important functionalities of the application are working.
+2. We reject the build, if the Smoke Testing fails and will wait for the stable build before performing in depth testing of the application functionalities.
+3. Once we receive a stable build, which passes Smoke Testing, we perform in depth testing using the Test Cases created.
+4. Multiple Test Resources will be testing the same Application on Multiple Supported Environments simultaneously.
+5. We then report the bugs in bug tracking tool and send dev. Management the defect found.
+6. As part of the Testing, we will perform the below types of Testing:
+7.	Smoke Testing and Sanity Testing
+8.	Regression Testing and Retesting 
+9.	Usability Testing, Functionality & UI Testing 
 We repeat Test Cycles until we get the quality product.
 
-Step #3 – We will follow the below best practices to make our Testing better:
-•	End-to-End Testing – We will test the end-to-end scenario which involve multiple functionalities to simulate the end user flows.
-
-4.	Entry and Exit Criteria
+<b>Step #3</b> – We will follow the below best practices to make our Testing better:
+1.	End-to-End Testing – We will test the end-to-end scenario which involve multiple functionalities to simulate the end user flows.
+***
+### Entry and Exit Criteria
 The below are the entry and exit criteria for every phase of Software Testing Life Cycle:
 
-Requirement Analysis
-Entry Criteria:
-• Once the testing team receives the Requirements Documents or details about the Project.
-Exit Criteria:
-• List of Requirements are explored and understood by the Testing team.
-• Doubts are cleared.
+#### Requirement Analysis
+##### Entry Criteria:
+1. Once the testing team receives the Requirements Documents or details about the Project.
+##### Exit Criteria:
+1. List of Requirements are explored and understood by the Testing team.
+2. Doubts are cleared.
 
-Test Planning
-Entry Criteria:
-• Testable Requirements derived from the given Requirements Documents or Project details.
-• Doubts are cleared
-Exit Criteria:
-• Test Plan document (includes Test Strategy) is signed-off by the Client.
+#### Test Planning
+##### Entry Criteria:
+1. Testable Requirements derived from the given Requirements Documents or Project details.
+2. Doubts are cleared
+##### Exit Criteria:
+1. Test Plan document (includes Test Strategy) is signed-off by the Client.
 
-Test Development
-Entry Criteria:
-• Test Plan Document is signed-off by the Client.
-Exit Criteria:
-• Test Scenarios and Test Cases Documents are signed-off by the Client.
-Test Execution
-Entry Criteria:
-• Test Scenarios and Test Cases Documents are signed-off by the Client.
-• Application is ready for Testing.
-Exit Criteria:
-• Test Case Reports, Defect Reports are ready.
-Test Closure
-Entry Criteria:
-• Test Case Reports, Defect Reports are ready.
-Exit Criteria:
-• Test Summary Reports.
+#### Test Development
+##### Entry Criteria:
+1. Test Plan Document is signed-off by the Client.
+##### Exit Criteria:
+1. Test Scenarios and Test Cases Documents are signed-off by the Client.
+#### Test Execution
+##### Entry Criteria:
+1. Test Scenarios and Test Cases Documents are signed-off by the Client.
+2. Application is ready for Testing.
+##### Exit Criteria:
+1. Test Case Reports, Defect Reports are ready.
+#### Test Closure
+##### Entry Criteria:
+1. Test Case Reports, Defect Reports are ready.
+##### Exit Criteria:
+1. Test Summary Reports.
 
-5.	Suspension criteria:
+### Suspension criteria:
 Show-Stopper bug found, Supplier issues, Vast changes in requirements, If resolving defects are more time consuming/expensive.
 
-6.	Tools
-The following are the list of Tools we will be using in this Project:
-•	Bug Tracking Tool
-•	Mind map Tool 
-•	Snipping Screenshot Tool
-•	Word and Excel documents
+### Tools
+The following are the list of Tools we will be using in this Project: 
+1.	Snipping Screenshot Tool
+2.	Word and Excel documents
 
