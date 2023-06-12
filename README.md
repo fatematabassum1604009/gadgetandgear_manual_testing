@@ -103,4 +103,5 @@ Show-Stopper bug found, Supplier issues, Vast changes in requirements, If resolv
 The following are the list of Tools we will be using in this Project: 
 1.	Snipping Screenshot Tool
 2.	Word and Excel documents
+3.	Mind map Tool 
 
